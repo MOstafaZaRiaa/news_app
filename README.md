@@ -8,6 +8,6 @@ run both Android and iOS devices because it builds with flutter.
 - [To Download - Click Here](https://www.mediafire.com/file/rk86y1wr7l6py1c/newsApp.apk/file)
 ## Screens it contains:
 
-![Preview](1.png)
-![Preview](2.png)
-![Preview](3.png)
+![Preview](1.jpeg)
+![Preview](2.jpeg)
+![Preview](3.jpeg)

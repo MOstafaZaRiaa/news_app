@@ -1,16 +1,13 @@
-# news_app
+# News App - Flutter with Get-X
 
-A new Flutter project.
+That is a complete News APP.
+we show you how you can create a nice
+clean architecture and clean design for your News app that can
+run both Android and iOS devices because it builds with flutter.
 
-## Getting Started
+- [To Download - Click Here](https://www.mediafire.com/file/rk86y1wr7l6py1c/newsApp.apk/file)
+## Screens it contains:
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Preview](1.png)
+![Preview](2.png)
+![Preview](3.png)
